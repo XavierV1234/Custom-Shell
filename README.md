@@ -32,7 +32,7 @@ The custom shell program provides a basic command-line interface that executes u
 
 -(>>) appends standard output to a file.
 
--If improper redirection syntax is detected (e.g., missing file name, multiple output files), an error message is displayed.
+-If improper redirection syntax is detected, an error message is displayed.
 
 ### Error Handling
 
